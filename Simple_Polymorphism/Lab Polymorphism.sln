@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11822.322 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperation", "MathOperation\MathOperation.csproj", "{ED07778B-9457-4E59-BE3F-078DC224FC52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{E1F842A7-58BC-49B1-BEAB-D9DF0E4B7729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{2412DFF6-13FE-454D-8FAA-30DE58F17C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED07778B-9457-4E59-BE3F-078DC224FC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED07778B-9457-4E59-BE3F-078DC224FC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED07778B-9457-4E59-BE3F-078DC224FC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED07778B-9457-4E59-BE3F-078DC224FC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F842A7-58BC-49B1-BEAB-D9DF0E4B7729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F842A7-58BC-49B1-BEAB-D9DF0E4B7729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F842A7-58BC-49B1-BEAB-D9DF0E4B7729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F842A7-58BC-49B1-BEAB-D9DF0E4B7729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2412DFF6-13FE-454D-8FAA-30DE58F17C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2412DFF6-13FE-454D-8FAA-30DE58F17C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2412DFF6-13FE-454D-8FAA-30DE58F17C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2412DFF6-13FE-454D-8FAA-30DE58F17C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A1C40DC-8993-4E18-9C30-2F205AF94281}
+	EndGlobalSection
+EndGlobal
