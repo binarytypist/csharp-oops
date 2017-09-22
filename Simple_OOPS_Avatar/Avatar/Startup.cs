@@ -16,12 +16,9 @@
 // Core idea:
 
 // Each nation has a total power, calculated from:
-
 // Benders’ power
 // Monument bonuses
-
 // Then nations can:
-
 // Add benders
 // Add monuments
 // View status
