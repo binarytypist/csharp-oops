@@ -54,7 +54,6 @@
     <Compile Include="IO\Commands\ChangeAbsolutePathCommand.cs" />
     <Compile Include="IO\Commands\ChangeRelativePathCommand.cs" />
     <Compile Include="IO\Commands\Command.cs" />
-    <Compile Include="IO\Commands\command1.cs" />
     <Compile Include="IO\Commands\CompareFilesCommand.cs" />
     <Compile Include="IO\Commands\DropDatabaseCommand.cs" />
     <Compile Include="IO\Commands\PrintFilteredStudentsCommand.cs" />
